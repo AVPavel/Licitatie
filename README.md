@@ -7,3 +7,5 @@ Scopul ei era sa simuleze o licitatie. Te autentifici (exista 2 tipuri de contur
 Baza de date folosita a fost SQL server 2014.
 
 Pentru vizionarea programului recomand sa se faca login-ul cu butonul "guest" intrucat nu am putut verifica ce parti din aplicatie functioneaza corect in stadiul curent.
+
+Fisierul SqlScriptLicitatie contine scriptul pentru crearea baze de date.
